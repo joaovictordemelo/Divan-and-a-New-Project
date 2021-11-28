@@ -26,6 +26,7 @@ typedef pair<long, long> pll;
 
 using namespace std;
 
+//as a good practice use all numbers as long long
 
 void test(){
         
